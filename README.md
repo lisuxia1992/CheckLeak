@@ -5,6 +5,7 @@
 
 ##需要安装的库
 1.pyobjc
+参考教程[https://pythonhosted.org/pyobjc/install.html](https://pythonhosted.org/pyobjc/install.html)
 ##需要设置的参数
 
 1.projectPath(工程所在路径)
